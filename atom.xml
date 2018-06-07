@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>红罐王老吉の博客</title>
+  
+  <subtitle>记录学习的技能和遇到的问题</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-06T11:27:07.016Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>酸辣面片</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习资源网站</title>
+    <link href="http://yoursite.com/2018/06/06/page/"/>
+    <id>http://yoursite.com/2018/06/06/page/</id>
+    <published>2018-06-06T11:21:43.000Z</published>
+    <updated>2018-06-06T11:27:07.016Z</updated>
+    
+    <content type="html"><![CDATA[<p>#常用资源网站</p><p><a href="https://juejin.im/" target="_blank" rel="noopener">掘金社区</a></p><p><a href="https://segmentfault.com/" target="_blank" rel="noopener">segmentfault</a></p><p><a href="http://www.jobbole.com/" target="_blank" rel="noopener">伯乐在线</a><br><!-- []()[]() --></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#常用资源网站&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://juejin.im/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;掘金社区&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/&quot; target=&quot;_b
+      
+    
+    </summary>
+    
+      <category term="资源网站" scheme="http://yoursite.com/categories/%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/"/>
+    
+    
+      <category term="资源网站" scheme="http://yoursite.com/tags/%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法浅析</title>
+    <link href="http://yoursite.com/2018/06/05/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2018/06/05/第一篇/</id>
+    <published>2018-06-05T08:17:14.000Z</published>
+    <updated>2018-06-06T10:32:51.706Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="markdown使用"><a href="#markdown使用" class="headerlink" title="markdown使用"></a>markdown使用</h1><h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><p><em>斜体</em> <strong>粗体</strong> <strong><em>又粗又斜</em></strong> </p><blockquote><p>引用</p></blockquote><p><code>function () {}</code></p><hr><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href="https://kevinpu.github.io/" target="_blank" rel="noopener">我的博客</a><br>我的博客地址<a href="https://kevinpu.github.io/" target="_blank" rel="noopener">https://kevinpu.github.io/</a></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ul><li>列表1</li></ul><ul><li>列表2</li></ul><ul><li>列表3</li></ul><ol><li>列表1</li><li>列表1</li><li>列表1<h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><img src="/images/insert_image.jpg" alt=""></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;markdown使用&quot;&gt;&lt;a href=&quot;#markdown使用&quot; class=&quot;headerlink&quot; title=&quot;markdown使用&quot;&gt;&lt;/a&gt;markdown使用&lt;/h1&gt;&lt;h2 id=&quot;字体&quot;&gt;&lt;a href=&quot;#字体&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
